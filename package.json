@@ -1,6 +1,6 @@
 {
-  "name": "ckeditor5-for-tech-blog",
-  "author": {"name":"CKSource","editor":"mithunadhikari.com.np"},
+  "name": "@mithun_adhikari/ckeditor5-for-tech-blog",
+  "author": "CKSource",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder to be used in my tech blog app.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
@@ -47,5 +47,16 @@
   },
   "scripts": {
     "build": "webpack --mode production"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithunadhikari40/ckeditor5-for-tech-blog.git"
+  },
+  "keywords": [
+    "ckeditor5-tech-blog"
+  ],
+  "bugs": {
+    "url": "https://github.com/mithunadhikari40/ckeditor5-for-tech-blog/issues"
+  },
+  "homepage": "https://github.com/mithunadhikari40/ckeditor5-for-tech-blog#readme"
 }
